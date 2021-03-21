@@ -14,8 +14,4 @@ Run this project:
  yarn dev / npm run dev
 ```
 
-Test this project:
 
-```js
- yarn test / npm run test
-```
